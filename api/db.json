@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "My cat rules",
+      "body": "Let's talk about how much my cat rules.",
+      "id": 4
+    },
+    {
+      "title": "Post Three Edit redux",
+      "body": "This is post three edited, also, my cat still rules. redux",
+      "id": 5
+    }
+  ]
+}

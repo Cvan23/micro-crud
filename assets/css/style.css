@@ -1,0 +1,11 @@
+.delete {
+  color: red;
+}
+
+body {
+  background-image: linear-gradient(to left,rgb(177, 239, 241),rgb(209, 247, 253),rgb(186, 186, 190));
+}
+
+footer, .navbar {
+  background-image: linear-gradient(to right,rgb(177, 239, 241),rgb(209, 247, 253),rgb(186, 186, 190));
+}
